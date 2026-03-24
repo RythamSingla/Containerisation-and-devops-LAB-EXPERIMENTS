@@ -2,10 +2,10 @@
 ## EXPERIMENT – 02  
 
 # Docker Installation, Configuration, and Running Images  
-**Name:** Raghav Malik  
+**Name:** RYTHAM SINGLA  
 **Batch:** B3  
-**SAP ID:** 500125292  
-**Roll No:** R2142231423  
+**SAP ID:** 500126592  
+**Roll No:** R2142232051  
 ---
 
 ## Aim
