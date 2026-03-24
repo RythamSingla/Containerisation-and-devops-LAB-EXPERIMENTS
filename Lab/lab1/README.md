@@ -1,10 +1,10 @@
 # Containerization and DevOps Lab  
 ## EXPERIMENT – 01  
 
-**Name:** Raghav Malik  
+**Name:** RYTHAM SINGLA 
 **Batch:** B3  
-**SAP ID:** 500125292  
-**Roll No:** R2142231423  
+**SAP ID:** 500126592  
+**Roll No:** R2142232051  
 
 ---
 
