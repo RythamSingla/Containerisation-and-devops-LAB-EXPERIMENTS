@@ -12,7 +12,7 @@
 - [Experiment 4 Docker Essentials Dockerfile dockerignore tagging and publishing](./Lab/lab4/readme.md)
 - [Experiment 5: Docker – Volumes, Environment Variables, Monitoring & Networks](./Lab/lab5/readme.md)
 - [Experiment 6:Docker Compose DockerRun,and MultiContainer Application Wordpress MySQL](./lab6/readme.md)
-- [Experiment 7: CI/CD Pipeline using Jenkins, GitHub & Docker Hub](./Lab/lab7/readme.md)
+- [Experiment 7: CI/CD Pipeline using Jenkins, GitHub & Docker Hub](./Lab/lab7/index.md)
 - [Experiment 9: Ansible — Automated Server Configuration Management](./Lab/lab9/index.md)
 - [Experiment 10:  SonarQube — Static Code Analysis](./Lab/lab10/index.md)
 - [Experiment 11: Orchestration using Docker Compose & Docker Swarm (Continuation of Experiment 6)](./Lab/lab11/index.md)
